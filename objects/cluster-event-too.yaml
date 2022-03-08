@@ -1,0 +1,4 @@
+apiVersion: kopf.dev/v1
+kind: ClusterEvent
+metadata:
+  name: my-cluster-event-two
